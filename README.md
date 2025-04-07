@@ -17,15 +17,15 @@ Telegram bot menggunakan GPT-4 + Web Browsing (SerpAPI).
    
 2. **Buat file .env Isi seperti ini:**
    ```bash
-TELEGRAM_API_TOKEN=isi_token_telegram_kamu
+   TELEGRAM_API_TOKEN=isi_token_telegram_kamu
 
-OPENAI_API_KEY=isi_token_openai_kamu
+   OPENAI_API_KEY=isi_token_openai_kamu
 
-SERPAPI_API_KEY=isi_token_serpapi_kamu
+   SERPAPI_API_KEY=isi_token_serpapi_kamu
 
 3. **Install dependencies:**
    ```bash
-pip install -r requirements.txt
+   pip install -r requirements.txt
 
 Jalankan bot:
 
