@@ -37,7 +37,9 @@ bash
 Copy
 Edit
 python bot.py
+
 ⚙️ Fitur
+
 ✅ Balas otomatis di grup kalau di-tag @SakahayangChatbot
 
 ✅ Browsing internet otomatis kalau OpenAI error
