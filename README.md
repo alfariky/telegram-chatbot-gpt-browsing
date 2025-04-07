@@ -29,9 +29,7 @@ Telegram bot menggunakan GPT-4 + Web Browsing (SerpAPI).
 
 Jalankan bot:
 
-bash
-Copy
-Edit
+```bash
 python bot.py
 
 ⚙️ Fitur
