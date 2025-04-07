@@ -51,4 +51,4 @@ python bot.py
 📜 License
 MIT License.
 
-Made with ❤️ by [alfariky]
+Made with ❤️ by [Alfariky]
