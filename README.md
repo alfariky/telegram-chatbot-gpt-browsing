@@ -1,2 +1,2 @@
 # telegram-chatbot-gpt-browsing
-Bot telegram that can reply you like GPT and find or ask everything
+Telegram bot that uses OpenAI and Google Search API, it can find and answer everything just by chat on the bot or place it in your telegram group
