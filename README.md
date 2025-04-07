@@ -31,7 +31,7 @@ Jalankan bot:
    ```bash
    python bot.py
 
-
+untuk detail botnya kira-kira seperti dibawah
 ⚙️ Fitur
 
 ✅ Balas otomatis di grup kalau di-tag @SakahayangChatbot
