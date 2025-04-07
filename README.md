@@ -35,7 +35,7 @@ Telegram bot menggunakan GPT-4 + Web Browsing (SerpAPI).
 untuk detail botnya kira-kira seperti dibawah
 ⚙️ Fitur
 
-✅ Balas otomatis di grup kalau di-tag @SakahayangChatbot
+✅ Balas otomatis di grup kalau di-tag @NamaBotMu
 
 ✅ Browsing internet otomatis kalau OpenAI error
 
