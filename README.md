@@ -16,8 +16,6 @@ Telegram bot menggunakan GPT-4 + Web Browsing (SerpAPI).
    cd repo
 Buat file .env Isi seperti ini:
 ```bash
-Copy
-Edit
 TELEGRAM_API_TOKEN=isi_token_telegram_kamu
 
 OPENAI_API_KEY=isi_token_openai_kamu
